@@ -1,4 +1,4 @@
-# projekt-Szpunar-Filip
+# projekt
 <h1> Instrukcja uruchomienia projektu</h1>
 <li> Pobierz i zainstaluj Netbeansa </li>
 <li> Pobierz repozytorium z Githuba </li>
